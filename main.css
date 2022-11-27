@@ -1,0 +1,19 @@
+div {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 300px;
+    height: 250px;
+    padding: 0px center 0px center;
+    margin: 250px auto 250px auto;
+    border: 1px solid grey;
+}
+
+h2 {
+    font-size: 14px;
+    margin: 10px 0 0 0;
+}
+.submit {
+    margin-top: 20px;
+    width: 250px;
+}
+
